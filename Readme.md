@@ -30,7 +30,7 @@ plt.rcParams["axes.unicode_minus"] = False
 
 ### 내용 정리 목차
 - [데이터 전처리 및 분석 단계](https://github.com/tommyjin2894/ai_study?tab=readme-ov-file#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC-%EB%B0%8F-%EB%B6%84%EC%84%9D-%EB%8B%A8%EA%B3%84)
-- [마이닝 알고리즘](https://github.com/tommyjin2894/ai_study?tab=readme-ov-file#%EB%A7%88%EC%9D%B4%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1)
+- [마이닝 알고리즘](https://github.com/tommyjin2894/ai_study?tab=readme-ov-file#%EB%A7%88%EC%9D%B4%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [샘플링 기법](https://github.com/tommyjin2894/ai_study?tab=readme-ov-file#%EC%83%98%ED%94%8C%EB%A7%81-%EA%B8%B0%EB%B2%95)
 - [딥러닝](https://github.com/tommyjin2894/ai_study?tab=readme-ov-file#%EB%94%A5%EB%9F%AC%EB%8B%9D)
 - [모델 평가](https://github.com/tommyjin2894/ai_study?tab=readme-ov-file#%EB%AA%A8%EB%8D%B8-%ED%8F%89%EA%B0%80)
